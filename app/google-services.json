@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "25507964373",
+    "firebase_url": "https://neighbourwatch-24991.firebaseio.com",
+    "project_id": "neighbourwatch-24991",
+    "storage_bucket": "neighbourwatch-24991.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25507964373:android:e8db85a2ed60033e",
+        "android_client_info": {
+          "package_name": "com.example.neighbourwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25507964373-mufhtrv7hbmbhj0ucku7teplaafpm78a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.neighbourwatch",
+            "certificate_hash": "c1d11444fe1ce1bd4ceb84ebd3cb0ef2a35240f9"
+          }
+        },
+        {
+          "client_id": "25507964373-iuaar6s4nvfs95e6bcg3mk5g2cqcrg0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJzyiy1AvY3NCT-ugiQzJE4P3Namluzg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25507964373-iuaar6s4nvfs95e6bcg3mk5g2cqcrg0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

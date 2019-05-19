@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_incidents"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Incidents Activity" />
+        <item
+            android:id="@+id/nav_neighbour"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Neighbour Info" />
+        <item
+            android:id="@+id/nav_programme"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Watch Programme" />
+    </group>
+
+</menu>
